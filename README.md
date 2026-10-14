@@ -85,57 +85,57 @@ The following table provides a comprehensive comparison of leading SaaS and host
 
 ## 💻 Open-Source Repositories & Agent Frameworks
 
-Open-source virtual assistant platforms, autonomous agent swarms, and remote operational tools. Sorted by **GitHub Star Count (Descending)**.
+Open-source virtual assistant platforms, autonomous agent swarms, and remote operational tools. Sorted by **GitHub Stars_Count (Descending)**.
 
-- **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** [![GitHub stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
+- **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** [![GitHub_Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
   *The flagship open-source autonomous AI agent platform.* Enables goal-driven virtual assistants capable of recursive task execution, web scraping, file manipulation, and long-term memory retrieval to automate complex administrative workflows.
 
-- **[Browser Use](https://github.com/browser-use/browser-use)** [![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers)  
+- **[Browser Use](https://github.com/browser-use/browser-use)** [![GitHub_Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers)  
   *Make websites accessible for AI agents.* An open-source autonomous web browsing virtual assistant that clicks, navigates, extracts structured data, and completes web forms exactly like a human remote assistant.
 
-- **[CrewAI](https://github.com/crewAIInc/crewAI)** [![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
+- **[CrewAI](https://github.com/crewAIInc/crewAI)** [![GitHub_Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
   *Framework for orchestrating autonomous AI agent crews.* Enables developers to define specialized virtual assistant teams (e.g., Researcher, Copywriter, Executive Assistant) that collaborate to plan, delegate, and execute complex business goals.
 
-- **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
+- **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub_Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
   *Open-source CRM designed for modern teams and AI.* Provides full customer data ownership, pipeline visibility, and automated tasks for virtual assistants managing client relationships, lead scoring, and outreach.
 
-- **[Cal.com](https://github.com/calcom/cal.diy)** [![GitHub stars](https://img.shields.io/github/stars/calcom/cal.diy?style=social&color=white)](https://github.com/calcom/cal.diy/stargazers)  
+- **[Cal.com](https://github.com/calcom/cal.diy)** [![GitHub_Stars](https://img.shields.io/github/stars/calcom/cal.diy?style=social&color=white)](https://github.com/calcom/cal.diy/stargazers)  
   *Open-source scheduling infrastructure for everyone.* Self-hosted scheduling platform that enables executive assistants to orchestrate calendars, book client appointments, accept payments, and automate meeting workflows with zero vendor lock-in.
 
-- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
+- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
   *Open-source customer communication platform and omnichannel desk.* Equips virtual support assistants with live chat, email ticketing, WhatsApp, and social media inboxes with rich AI assistant integrations.
 
-- **[Zulip](https://github.com/zulip/zulip)** [![GitHub stars](https://img.shields.io/github/stars/zulip/zulip?style=social&color=white)](https://github.com/zulip/zulip/stargazers)  
+- **[Zulip](https://github.com/zulip/zulip)** [![GitHub_Stars](https://img.shields.io/github/stars/zulip/zulip?style=social&color=white)](https://github.com/zulip/zulip/stargazers)  
   *Open-source, topic-based asynchronous team chat.* Built for remote collaboration with 130+ integrations, full markdown support, LDAP/SAML authentication, and organized thread hierarchies ideal for distributed VA agencies.
 
-- **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
+- **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub_Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
   *Open-source workflow automation and MCP server hub for AI agents.* An open alternative to Zapier, providing 400+ connectors and visual orchestration for virtual assistants to automate repetitive data entry, CRM syncing, and reporting.
 
-- **[ElizaOS](https://github.com/elizaOS/eliza)** [![GitHub stars](https://img.shields.io/github/stars/elizaOS/eliza?style=social&color=white)](https://github.com/elizaOS/eliza/stargazers)  
+- **[ElizaOS](https://github.com/elizaOS/eliza)** [![GitHub_Stars](https://img.shields.io/github/stars/elizaOS/eliza?style=social&color=white)](https://github.com/elizaOS/eliza/stargazers)  
   *Open-source agentic operating system.* Lightweight, flexible framework for deploying autonomous multi-agent virtual assistants across Discord, Twitter/X, Telegram, and REST APIs with extensible document retrieval and memory.
 
-- **[Documenso](https://github.com/documenso/documenso)** [![GitHub stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers)  
+- **[Documenso](https://github.com/documenso/documenso)** [![GitHub_Stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers)  
   *The open-source DocuSign alternative.* Self-hosted digital signature platform allowing virtual assistant agencies and clients to execute legally compliant service agreements, contractor NDAs, and onboarding paperwork.
 
-- **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
+- **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub_Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
   *Open-source billing, invoicing, and time-tracking suite.* Built with Laravel and Flutter, providing freelance virtual assistants and agencies with automated recurring invoices, task time tracking, project milestones, and client portals.
 
-- **[LibreSign](https://github.com/LibreSign/libresign)** [![GitHub stars](https://img.shields.io/github/stars/LibreSign/libresign?style=social&color=white)](https://github.com/LibreSign/libresign/stargazers)  
+- **[LibreSign](https://github.com/LibreSign/libresign)** [![GitHub_Stars](https://img.shields.io/github/stars/LibreSign/libresign?style=social&color=white)](https://github.com/LibreSign/libresign/stargazers)  
   *Open-source digital signature platform with Nextcloud integration.* AGPL-3.0 licensed digital signature solution recognized as a Digital Public Good, keeping all contractual VA documents under complete sovereign data control.
 
-- **[OpenMule](https://github.com/James4Ever0/openmule)** [![GitHub stars](https://img.shields.io/github/stars/James4Ever0/openmule?style=social&color=white)](https://github.com/James4Ever0/openmule/stargazers)  
+- **[OpenMule](https://github.com/James4Ever0/openmule)** [![GitHub_Stars](https://img.shields.io/github/stars/James4Ever0/openmule?style=social&color=white)](https://github.com/James4Ever0/openmule/stargazers)  
   *Decentralized AI task marketplace.* Connects human buyers with autonomous AI agents. Built with a Rust (Axum) backend and Vue 3 frontend, featuring task bidding, order management, payment processing, and WebSocket messaging.
 
-- **[Ndizi](https://github.com/mjrich/ndizi)** [![GitHub stars](https://img.shields.io/github/stars/mjrich/ndizi?style=social&color=white)](https://github.com/mjrich/ndizi/stargazers)  
+- **[Ndizi](https://github.com/mjrich/ndizi)** [![GitHub_Stars](https://img.shields.io/github/stars/mjrich/ndizi?style=social&color=white)](https://github.com/mjrich/ndizi/stargazers)  
   *Client and project management system with Stripe billing.* Features ticket visibility, time tracking with custom billing rates, multi-currency invoice generation, and Abilities API support for AI agent integrations.
 
-- **[ComradeAI](https://github.com/SergeiKarulin/ComradeAI)** [![GitHub stars](https://img.shields.io/github/stars/SergeiKarulin/ComradeAI?style=social&color=white)](https://github.com/SergeiKarulin/ComradeAI/stargazers)  
+- **[ComradeAI](https://github.com/SergeiKarulin/ComradeAI)** [![GitHub_Stars](https://img.shields.io/github/stars/SergeiKarulin/ComradeAI?style=social&color=white)](https://github.com/SergeiKarulin/ComradeAI/stargazers)  
   *Multi-agent collaborative orchestration protocol.* Unifies models from Anthropic, OpenAI, Meta, and Google into collaborative virtual assistant networks using digital currency settlement and standard communication protocols.
 
-- **[Myelin](https://github.com/Tiag0ss/myelin)** [![GitHub stars](https://img.shields.io/github/stars/Tiag0ss/myelin?style=social&color=white)](https://github.com/Tiag0ss/myelin/stargazers)  
+- **[Myelin](https://github.com/Tiag0ss/myelin)** [![GitHub_Stars](https://img.shields.io/github/stars/Tiag0ss/myelin?style=social&color=white)](https://github.com/Tiag0ss/myelin/stargazers)  
   *Open-source project and client management workspace.* Docker-deployed Next.js/Express stack providing client ticketing portals, expense tracking with approval workflows, and an embedded AI assistant.
 
-- **[Special Agents](https://github.com/jinnks/special-agents)** [![GitHub stars](https://img.shields.io/github/stars/jinnks/special-agents?style=social&color=white)](https://github.com/jinnks/special-agents/stargazers)  
+- **[Special Agents](https://github.com/jinnks/special-agents)** [![GitHub_Stars](https://img.shields.io/github/stars/jinnks/special-agents?style=social&color=white)](https://github.com/jinnks/special-agents/stargazers)  
   *AI agent marketplace with ethical review and `.sagent` packaging.* Python/Flask marketplace enabling developers to publish, monetize, and chat with specialized AI agents using Claude APIs and standardized package distribution.
 
 ---
@@ -182,7 +182,7 @@ We welcome contributions from founders, virtual assistants, agency managers, and
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-platform`).
 3. 📝 **Add or update an entry**:
    - For **SaaS platforms**, ensure the entry contains exact starting pricing, verified free tier limits, and verifiable revenue/valuation data.
-   - For **Open-Source projects**, include a valid GitHub repository with the social star badge link (`[![GitHub stars](https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white)](https://github.com/{owner}/{repo}/stargazers)`).
+   - For **Open-Source projects**, include a valid GitHub repository with the social Stars_Badge link (`[![GitHub_Stars](https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white)](https://github.com/{owner}/{repo}/stargazers)`).
 4. 📬 **Submit a Pull Request** with a clear explanation and official citations.
 
 ---
